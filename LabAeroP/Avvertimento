@@ -1,0 +1,3 @@
+Nell'utilizzo degli script vengono richimati alcuni file della cartella data, tuttavia se si volessero utilizzare file diversi 
+occorre tener conto del fatto che vanno rinominati oppure va cambiato il comando per l'estrazione dei dati dai file all'interno 
+dello script. 
